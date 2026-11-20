@@ -1,0 +1,284 @@
+[
+  {
+    "run_url": "https://dbc-48a16403-f66f.cloud.databricks.com/editor/notebooks/127024866559307",
+    "execution_timestamp_utc": "2026-11-20T15:51:21.022670+00:00",
+    "row_counts": {
+      "training.to6_c3_9acf04df5c41.features_train": 4,
+      "training.to6_c3_9acf04df5c41.features_validation": 4,
+      "training.to6_c3_9acf04df5c41.features_test": 4,
+      "training.to6_c3_9acf04df5c41.return_features": 12
+    },
+    "table_fingerprint": "955d29b214bdb05600e66b3d893ed08d13000cdbc4888ea577110d384a43e8a3",
+    "snapshots": {
+      "training.to6_c3_9acf04df5c41.return_features": [
+        [
+          "R01",
+          2022,
+          0.2
+        ],
+        [
+          "R02",
+          2022,
+          0.165
+        ],
+        [
+          "R03",
+          2022,
+          null
+        ],
+        [
+          "R04",
+          2022,
+          0.1475
+        ],
+        [
+          "R05",
+          2023,
+          0.144
+        ],
+        [
+          "R06",
+          2023,
+          0.14166666666666666
+        ],
+        [
+          "R07",
+          2023,
+          0.14
+        ],
+        [
+          "R08",
+          2023,
+          0.13875
+        ],
+        [
+          "R09",
+          2024,
+          null
+        ],
+        [
+          "R10",
+          2024,
+          0.137
+        ],
+        [
+          "R11",
+          2024,
+          0.13636363636363635
+        ],
+        [
+          "R12",
+          2024,
+          0.13583333333333333
+        ]
+      ],
+      "training.to6_c3_9acf04df5c41.features_train": [
+        [
+          "R01",
+          2022,
+          0.2
+        ],
+        [
+          "R02",
+          2022,
+          0.165
+        ],
+        [
+          "R03",
+          2022,
+          null
+        ],
+        [
+          "R04",
+          2022,
+          0.1475
+        ]
+      ],
+      "training.to6_c3_9acf04df5c41.features_validation": [
+        [
+          "R05",
+          2023,
+          0.144
+        ],
+        [
+          "R06",
+          2023,
+          0.14166666666666666
+        ],
+        [
+          "R07",
+          2023,
+          0.14
+        ],
+        [
+          "R08",
+          2023,
+          0.13875
+        ]
+      ],
+      "training.to6_c3_9acf04df5c41.features_test": [
+        [
+          "R09",
+          2024,
+          null
+        ],
+        [
+          "R10",
+          2024,
+          0.137
+        ],
+        [
+          "R11",
+          2024,
+          0.13636363636363635
+        ],
+        [
+          "R12",
+          2024,
+          0.13583333333333333
+        ]
+      ]
+    }
+  },
+  {
+    "run_url": "https://dbc-48a16403-f66f.cloud.databricks.com/editor/notebooks/127024866559307",
+    "execution_timestamp_utc": "2026-11-20T17:31:50.365658+00:00",
+    "row_counts": {
+      "training.to6_c3_9acf04df5c41.features_train": 4,
+      "training.to6_c3_9acf04df5c41.features_validation": 4,
+      "training.to6_c3_9acf04df5c41.features_test": 4,
+      "training.to6_c3_9acf04df5c41.return_features": 12
+    },
+    "table_fingerprint": "955d29b214bdb05600e66b3d893ed08d13000cdbc4888ea577110d384a43e8a3",
+    "snapshots": {
+      "training.to6_c3_9acf04df5c41.return_features": [
+        [
+          "R01",
+          2022,
+          0.2
+        ],
+        [
+          "R02",
+          2022,
+          0.165
+        ],
+        [
+          "R03",
+          2022,
+          null
+        ],
+        [
+          "R04",
+          2022,
+          0.1475
+        ],
+        [
+          "R05",
+          2023,
+          0.144
+        ],
+        [
+          "R06",
+          2023,
+          0.14166666666666666
+        ],
+        [
+          "R07",
+          2023,
+          0.14
+        ],
+        [
+          "R08",
+          2023,
+          0.13875
+        ],
+        [
+          "R09",
+          2024,
+          null
+        ],
+        [
+          "R10",
+          2024,
+          0.137
+        ],
+        [
+          "R11",
+          2024,
+          0.13636363636363635
+        ],
+        [
+          "R12",
+          2024,
+          0.13583333333333333
+        ]
+      ],
+      "training.to6_c3_9acf04df5c41.features_train": [
+        [
+          "R01",
+          2022,
+          0.2
+        ],
+        [
+          "R02",
+          2022,
+          0.165
+        ],
+        [
+          "R03",
+          2022,
+          null
+        ],
+        [
+          "R04",
+          2022,
+          0.1475
+        ]
+      ],
+      "training.to6_c3_9acf04df5c41.features_validation": [
+        [
+          "R05",
+          2023,
+          0.144
+        ],
+        [
+          "R06",
+          2023,
+          0.14166666666666666
+        ],
+        [
+          "R07",
+          2023,
+          0.14
+        ],
+        [
+          "R08",
+          2023,
+          0.13875
+        ]
+      ],
+      "training.to6_c3_9acf04df5c41.features_test": [
+        [
+          "R09",
+          2024,
+          null
+        ],
+        [
+          "R10",
+          2024,
+          0.137
+        ],
+        [
+          "R11",
+          2024,
+          0.13636363636363635
+        ],
+        [
+          "R12",
+          2024,
+          0.13583333333333333
+        ]
+      ]
+    }
+  }
+]

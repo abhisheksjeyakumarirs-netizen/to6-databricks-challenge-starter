@@ -1,0 +1,4 @@
+return_id,taxpayer_id,tax_year,income,deduction,rejection_reasons
+R01,F0,2022,100.0,20,duplicate return_id (return not exactly once)
+R02,F1,2022,,33,missing required value: income
+R01,F0,2022,100.0,20,duplicate return_id (return not exactly once)
